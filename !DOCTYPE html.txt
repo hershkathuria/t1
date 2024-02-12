@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to My Page - My Portfolio</title>
+    <style>
+        body {
+            background-color: lightgray;
+            color: black;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 20px;
+        }
+        .section {
+            margin: 40px;
+        }
+        .project {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+    <div class="section">
+        <h2>About Me</h2>
+        <p>Hi, I'm HK . I'm passionate about Music.</p>
+    </div>
+    <div class="section">
+        <h2>Skills</h2>
+        <p>[singing]</p>
+    </div>
+    <div class="section">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Rat Race</h3>
+            <p>Rap funny take on rat race .</p>
+        </div>
+        <!-- Repeat for more projects -->
+    </div>
+    <div class="section">
+        <h2>Contact Me</h2>
+        <p>Email: thekathuria@gmail.com</p>
+    </div>
+</body>
+</html>
